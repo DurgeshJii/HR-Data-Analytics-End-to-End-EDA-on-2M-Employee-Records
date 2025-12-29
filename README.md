@@ -4,7 +4,7 @@ This project focuses on end-to-end HR data analytics using Python to extract act
 
 The project demonstrates strong skills in data cleaning, exploratory data analysis (EDA), aggregation, visualization, and business interpretation, making it suitable for Data Analyst / HR Analyst roles.
 
-🔹 Key Business Questions Answered
+# 🔹 Key Business Questions Answered
 
 Employee status distribution (Active, Resigned, Retired, Terminated)
 
@@ -26,7 +26,7 @@ Experience vs salary analysis
 
 Country-wise employee distribution
 
-🔹 Tools & Technologies Used
+# 🔹 Tools & Technologies Used
 
 Python
 
@@ -38,7 +38,7 @@ VS Code / Jupyter Notebook
 
 CSV Dataset (2M rows)
 
-🔹 Key Skills Demonstrated
+# 🔹 Key Skills Demonstrated
 
 Handling large datasets (2M+ rows)
 
@@ -52,9 +52,11 @@ Professional data visualization
 
 HR analytics & attrition analysis
 
-🔹 Repository Structure
+# 🔹 Repository Structure
 📁 HR-Data-Analytics
  ┣ 📄 hr_data_analytics.py
  ┣ 📄 HR dataset.csv
  ┣ 📄 Day_14_Project.pdf
  ┣ 📄 README.md
+
+# BY DURGESH YADAV
